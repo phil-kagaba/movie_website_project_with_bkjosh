@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.button-loop{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    height: 2rem;
+    background: rgb(212, 205, 216);
+    max-width: 10rem;
+}   
+
+.selection-button{
+    
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background: rgb(139, 46, 215);
+    margin-left: 1rem;
+}
